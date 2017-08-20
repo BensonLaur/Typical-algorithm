@@ -1,0 +1,13 @@
+*.sdf
+*.suo
+*.opensdf
+
+/Debug
+/Release
+/ipch
+
+/Algorithm//Debug
+/Algorithm/Release
+
+/HuffmanTree/Debug
+/HuffmanTree/Release
